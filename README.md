@@ -8,6 +8,12 @@ The input to the RNN at every time-step is the current value as well as a state 
 
 ## Usage:-
 
-<code> python RNN.py </code>
+<code> python RNN.py </code>    
+
+## References:    
+
+1. https://medium.com/@purnasaigudikandula/recurrent-neural-networks-and-lstm-explained-7f51c7f6bbb9    
+2. https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2    
+
 
 
